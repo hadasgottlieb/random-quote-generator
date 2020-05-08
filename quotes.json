@@ -1,0 +1,20 @@
+{
+    "quotes": [
+        {
+            "quote": "This is a cool quote.",
+            "speaker": "Abraham Lincoln"
+        },
+        {
+            "quote": "This is an even cooler quote.",
+            "speaker": "Hadas"
+        },
+        {
+            "quote": "Wow, would you look at this quote!",
+            "speaker": "Avrohom"
+        },
+        {
+            "quote": "I know, right?",
+            "speaker": "Plato"
+        }
+    ]
+}
